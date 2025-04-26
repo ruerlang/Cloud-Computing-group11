@@ -1,0 +1,4 @@
+Memory (MB),Avg Duration (ms),Max Memory Used (MB),Cost per 1M Invocations
+128,778.43,112,1.82
+512,558.43,117,4.85
+1024,460.39,123,7.87
